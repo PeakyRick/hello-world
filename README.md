@@ -1,2 +1,2 @@
 # hello-world
-Getting Familiar with Git
+Getting Familiar with Git by Eric PeakyRick
